@@ -2,8 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome to linuszp page
 
-_yay_
 
 [back](./)
